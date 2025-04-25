@@ -35,7 +35,7 @@
 1. **Клонирование репозитория**  
    Склонируйте репозиторий на ваш локальный компьютер:
    ```bash
-   git clone <URL репозитория>
+   git clone https://github.com/svetlanov/lab_6_react.git
    cd lab_6_react
    ```
 
