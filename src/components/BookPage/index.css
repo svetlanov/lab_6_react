@@ -1,0 +1,39 @@
+.book-page-main {
+    display: flex;
+    flex-direction: row;
+}
+
+.left-side {
+    width: 40%;
+    text-align: center;
+    align-items: center;
+}
+
+.left-side img {
+    width: 100%;
+}
+
+.right-side {
+    width: 60%;
+    padding: 0 30px;
+    text-align: left;
+}
+
+.book-page-buy-row {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    align-items: center;
+}
+
+.add-to-cart {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

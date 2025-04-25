@@ -1,0 +1,42 @@
+.book-page-edition {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    width: 100%;
+    box-sizing: border-box;
+    color: #333;
+}
+
+.price {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.book-page-edition .price {
+    margin-right: 20px;
+    margin-left: 5px;
+}
+
+.book-page-edition:hover {
+    background-color: #f0f0f0;
+}
+
+.book-page-edition.not-available {
+    opacity: 0.5;
+    pointer-events: none;
+    background-color: #e0e0e0;
+    color: #999;
+}
+
+.book-page-edition.selected {
+    background-color: #007bff;
+    color: white;
+}

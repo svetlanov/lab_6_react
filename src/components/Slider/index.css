@@ -1,0 +1,60 @@
+.slider {
+    width: 100%;
+    max-height: 300px;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+
+.book-slide {
+    display: flex;
+    width: 100%;
+    background-color: #f8f9fa;
+    transition: transform 0.5s ease-in-out;
+}
+
+.book-slide.inactive-slide {
+    display: none;
+}
+
+button {
+    background-color: #f8f9fa;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #e9ecef;
+}
+
+.right-side-info, .left-side-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 1rem;
+    width: 50%;
+}
+
+.book-slide.left-side {
+    flex-direction: row-reverse;
+}
+
+.book-slide.right-side {
+    flex-direction: row;
+}
+
+.book-slide img {
+    width: 40%;
+    object-fit:contain;
+    border-radius: 0.5rem;
+    min-height: 300px;
+    max-height: 300px;
+}
+
+.editions {
+    display: flex;
+    flex-direction: column;
+    /* width: 100%; */
+}

@@ -1,0 +1,292 @@
+[
+    {
+      "id": 1,
+      "title": "Преступление и наказание",
+      "author": "Фёдор Достоевский",
+      "genre": "Классическая литература",
+      "language": "Русский",
+      "year": 1866,
+      "imageUrl": "https://kniga.lv/icache/6c828ff5/7bcfb180/b1ba1ccf.jpg",
+      "editions": [
+        {
+          "edition": "Издательство АСТ, 2020, твёрдый переплёт",
+          "price": 499,
+          "currency": "MDL",
+          "inStock": true
+        },
+        {
+          "edition": "Издательство Азбука, 2018, мягкий переплёт",
+          "price": 390,
+          "currency": "MDL",
+          "inStock": true
+        },
+        {
+          "edition": "Английский перевод: Pevear & Volokhonsky",
+          "price": 550,
+          "currency": "MDL",
+          "inStock": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "1984",
+      "author": "Джордж Оруэлл",
+      "genre": "Антиутопия",
+      "language": "Русский",
+      "year": 1949,
+      "imageUrl": "https://anylang.net/sites/default/files/covers/1984.jpg",
+      "editions": [
+        {
+          "edition": "Перевод В. Вебера, АСТ, 2019",
+          "price": 550,
+          "currency": "MDL",
+          "inStock": true
+        },
+        {
+          "edition": "Издание в оригинале (English), Penguin Books, 2021",
+          "price": 470,
+          "currency": "MDL",
+          "inStock": true
+        },
+        {
+          "edition": "Юбилейное издание, твёрдый переплёт",
+          "price": 620,
+          "currency": "MDL",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Маленький принц",
+      "author": "Антуан де Сент-Экзюпери",
+      "genre": "Сказка",
+      "language": "Русский",
+      "year": 1943,
+      "imageUrl": "https://nukadeti.ru/content/images/essence/tale/5506/84.jpg",
+      "editions": [
+        {
+          "edition": "Перевод Нора Галь, 2017",
+          "price": 320,
+          "currency": "MDL",
+          "inStock": false
+        },
+        {
+          "edition": "Иллюстрированное издание с рисунками автора",
+          "price": 450,
+          "currency": "MDL",
+          "inStock": true
+        },
+        {
+          "edition": "Французский оригинал, Gallimard",
+          "price": 480,
+          "currency": "MDL",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Мастер и Маргарита",
+      "author": "Михаил Булгаков",
+      "genre": "Роман",
+      "language": "Русский",
+      "year": 1967,
+      "imageUrl": "https://cdn.librarius.md/img/original/master-i-margarita_1718873232.jpg",
+      "editions": [
+        {
+          "edition": "Издательство Эксмо, 2021",
+          "price": 590,
+          "currency": "MDL",
+          "inStock": true
+        },
+        {
+          "edition": "Юбилейное иллюстрированное издание",
+          "price": 740,
+          "currency": "MDL",
+          "inStock": true
+        },
+        {
+          "edition": "Издание в мягком переплёте, карманный формат",
+          "price": 360,
+          "currency": "MDL",
+          "inStock": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Унесённые ветром",
+      "author": "Маргарет Митчелл",
+      "genre": "Исторический роман",
+      "language": "Русский",
+      "year": 1936,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Poster_-_Gone_With_the_Wind_01.jpg/1200px-Poster_-_Gone_With_the_Wind_01.jpg",
+      "editions": [
+        {
+          "edition": "Перевод И. Гуровой, 2019",
+          "price": 720,
+          "currency": "MDL",
+          "inStock": true
+        },
+        {
+          "edition": "Оригинал на английском, HarperCollins",
+          "price": 680,
+          "currency": "MDL",
+          "inStock": true
+        },
+        {
+          "edition": "Полное издание в 2 томах",
+          "price": 890,
+          "currency": "MDL",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Гарри Поттер и философский камень",
+      "author": "Дж. К. Роулинг",
+      "genre": "Фэнтези",
+      "language": "Русский",
+      "year": 1997,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578001598i/13397021.jpg",
+      "editions": [
+        {
+          "edition": "Перевод М. Спивак, 2019",
+          "price": 480,
+          "currency": "MDL",
+          "inStock": true
+        },
+        {
+          "edition": "Оригинал на английском, Bloomsbury",
+          "price": 510,
+          "currency": "MDL",
+          "inStock": true
+        },
+        {
+          "edition": "Иллюстрированное издание от Jim Kay",
+          "price": 750,
+          "currency": "MDL",
+          "inStock": false
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Атлант расправил плечи",
+      "author": "Айн Рэнд",
+      "genre": "Философский роман",
+      "language": "Русский",
+      "year": 1957,
+      "imageUrl": "https://basket-01.wbbasket.ru/vol76/part7614/7614422/images/big/1.webp",
+      "editions": [
+        {
+          "edition": "Издательство Попурри, 2020",
+          "price": 890,
+          "currency": "MDL",
+          "inStock": false
+        },
+        {
+          "edition": "Оригинал на английском, Signet",
+          "price": 740,
+          "currency": "MDL",
+          "inStock": true
+        },
+        {
+          "edition": "Издание в трёх томах",
+          "price": 1050,
+          "currency": "MDL",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Три товарища",
+      "author": "Эрих Мария Ремарк",
+      "genre": "Роман",
+      "language": "Русский",
+      "year": 1936,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1697121655i/199532736.jpg",
+      "editions": [
+        {
+          "edition": "Перевод Наталии Ман, 2018",
+          "price": 450,
+          "currency": "MDL",
+          "inStock": true
+        },
+        {
+          "edition": "Оригинал на немецком, Kiepenheuer & Witsch",
+          "price": 490,
+          "currency": "MDL",
+          "inStock": true
+        },
+        {
+          "edition": "Юбилейное подарочное издание",
+          "price": 640,
+          "currency": "MDL",
+          "inStock": false
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Война и мир",
+      "author": "Лев Толстой",
+      "genre": "Эпопея",
+      "language": "Русский",
+      "year": 1869,
+      "imageUrl": "https://m.media-amazon.com/images/I/912F83swwRL._UF1000,1000_QL80_.jpg",
+      "editions": [
+        {
+          "edition": "Издательство АСТ, 2022, 2 тома",
+          "price": 990,
+          "currency": "MDL",
+          "inStock": true
+        },
+        {
+          "edition": "Английский перевод: Louise and Aylmer Maude",
+          "price": 870,
+          "currency": "MDL",
+          "inStock": true
+        },
+        {
+          "edition": "Иллюстрированное издание с комментариями",
+          "price": 1150,
+          "currency": "MDL",
+          "inStock": false
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Над пропастью во ржи",
+      "author": "Дж. Д. Сэлинджер",
+      "genre": "Роман воспитания",
+      "language": "Русский",
+      "year": 1951,
+      "imageUrl": "https://shop-re-books.ru/upload/iblock/04a/1lql4t81rrwrgugmhf0dtr9x2u4lytdj/d5936994_208e_11ed_90f1_b03af2b6059f_d39e8a9c_2090_11ed_90f1_b03af2b6059f.resize1.jpg",
+      "editions": [
+        {
+          "edition": "Перевод М. Немцова, 2015",
+          "price": 430,
+          "currency": "MDL",
+          "inStock": true
+        },
+        {
+          "edition": "Оригинал на английском, Little, Brown and Company",
+          "price": 410,
+          "currency": "MDL",
+          "inStock": true
+        },
+        {
+          "edition": "Мини-формат, мягкий переплёт",
+          "price": 340,
+          "currency": "MDL",
+          "inStock": true
+        }
+      ]
+    }
+  ]
